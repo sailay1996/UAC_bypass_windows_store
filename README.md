@@ -1,5 +1,7 @@
 # UAC_bypass_windows_store
  Windows 10 LPE (UAC Bypass) in  Windows Store  (WSReset.exe)
+ 
+##### uacbypass_mod.c (exe) is fully automate. you don't need to run UAC.bat .
 
 ##### registry method : https://github.com/sailay1996/Fileless_UAC_bypass_WSReset 
  <br>
